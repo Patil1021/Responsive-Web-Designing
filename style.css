@@ -11,7 +11,7 @@
 .mainDiv{
   border: 2px solid #000;
   display: flex;
-    background-color: MEDIUMSEAGREEN;
+    background-color: MEDIUMSPRINGGREEN;
 }
 /*media queries */
 @media only screen and (max-width:450px){
